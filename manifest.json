@@ -1,7 +1,7 @@
 {
-  "vendor": "vtextitantools",
+  "vendor": "toddb2b",
   "name": "b2bstore",
-  "version": "5.0.7",
+  "version": "0.0.1",
   "defaultLocale": "en-US",
   "builders": {
     "assets": "0.x",
@@ -18,7 +18,8 @@
     "vtex.wordpress-integration": "2.x",
     "ssesandbox04.threekit-app": "0.x",
     "ssesandbox04.seller-page": "0.x",
-    "ssesandbox04.b2b-suite-bra": "1.x"
+    "ssesandbox04.b2b-suite-bra": "1.x",
+    "vtex.binding-selector": "2.x"
   },
   "dependencies": {
     "vtex.store": "2.x",

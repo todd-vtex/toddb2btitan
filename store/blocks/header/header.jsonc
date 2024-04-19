@@ -64,6 +64,7 @@
       "category-menu",
       "flex-layout.col#logo-desktop",
       "flex-layout.col#search-bar",
+      "binding-selector",
       "link#quickOrder",
       "login",
       // "flex-layout.col#permission-description",
