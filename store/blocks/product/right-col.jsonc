@@ -40,6 +40,7 @@
     "children": [
       "flex-layout.row#product-identifier",
       "flex-layout.row#product-name",
+      "link-seller",
       "flex-layout.row#brand-and-rating",
       "seller-page-link",
       "has-specifications-condition#description-size",
