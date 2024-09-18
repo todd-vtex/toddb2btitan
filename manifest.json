@@ -1,7 +1,7 @@
 {
   "vendor": "toddb2b",
   "name": "b2bstore",
-  "version": "1.1.2",
+  "version": "2.1.2",
   "defaultLocale": "en-US",
   "builders": {
     "assets": "0.x",
@@ -19,7 +19,8 @@
     "ssesandbox04.threekit-app": "0.x",
     "ssesandbox04.seller-page": "0.x",
     "ssesandbox04.b2b-suite-bra": "1.x",
-    "vtex.binding-selector": "2.x"
+    "vtex.binding-selector": "2.x",
+    "vtex.my-wishlists": "2.x"
   },
   "dependencies": {
     "vtex.store": "2.x",
