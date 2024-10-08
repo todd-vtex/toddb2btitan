@@ -113,13 +113,15 @@
         "sales-manager",
         "sales-representative",
         "customer-admin",
-        "customer-approver"
+        "customer-approver",
+        "customer-buyer"
       ]
     },
     "blocks": ["allowed-content#minicart", "disallowed-content#minicart"]
   },
   "allowed-content#minicart": {
-    "children": ["minicart-checkout-button", "link#quote"]
+//    "children": ["minicart-checkout-button", "link#quote"]
+    "children": ["minicart-button-request-budget", "link#quote"]
   },
   "disallowed-content#minicart": {
     "children": ["link#quote"]
