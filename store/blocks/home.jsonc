@@ -4,6 +4,7 @@
   },
   "b2b-context#desktop": {
     "children": [
+      "pa-widget",
       "check-permission#representative-area",
       "flex-layout.row#sales-channel-banner",
       "check-permission#lastOrders",

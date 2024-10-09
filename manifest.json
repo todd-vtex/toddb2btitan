@@ -1,7 +1,7 @@
 {
   "vendor": "toddb2b",
   "name": "b2bstore",
-  "version": "4.1.4",
+  "version": "5.1.5",
   "defaultLocale": "en-US",
   "builders": {
     "assets": "0.x",
@@ -21,7 +21,8 @@
     "ssesandbox04.b2b-suite-bra": "1.x",
     "vtex.binding-selector": "2.x",
     "vtex.my-wishlists": "2.x",
-    "experimentality.b2b-organizations-budget": "0.x"
+    "experimentality.b2b-organizations-budget": "0.x",
+    "vtexventures.personal-shopper-free": "0.x"
   },
   "dependencies": {
     "vtex.store": "2.x",

@@ -1,6 +1,7 @@
 {
   "store.product": {
     "children": [
+      "pa-widget",
       "responsive-layout.mobile#product",
       "responsive-layout.desktop#product"
     ]
